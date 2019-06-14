@@ -1197,7 +1197,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_ActionScript 3.0_HTML5 Canvas_atlas_.png", id:"_ActionScript 3.0_HTML5 Canvas_atlas_"},
+		{src:"./images/_ActionScript 3.0_HTML5 Canvas_atlas_.png", id:"_ActionScript 3.0_HTML5 Canvas_atlas_"},
 		{src:"images/_ActionScript 3.0_HTML5 Canvas_atlas_2.png", id:"_ActionScript 3.0_HTML5 Canvas_atlas_2"},
 		{src:"images/_ActionScript 3.0_HTML5 Canvas_atlas_3.png", id:"_ActionScript 3.0_HTML5 Canvas_atlas_3"},
 		{src:"images/_ActionScript 3.0_HTML5 Canvas_atlas_4.png", id:"_ActionScript 3.0_HTML5 Canvas_atlas_4"},
